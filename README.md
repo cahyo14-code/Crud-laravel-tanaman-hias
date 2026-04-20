@@ -1,4 +1,4 @@
-#  Tanaman Hias - Toko Online
+#  Tanaman Hias 
 
 Aplikasi toko online berbasis web untuk penjualan tanaman hias, dibangun menggunakan Laravel 12.
 
@@ -10,7 +10,7 @@ Aplikasi toko online berbasis web untuk penjualan tanaman hias, dibangun menggun
 
 ## Fitur
 - Manajemen data produk tanaman hias (CRUD)
-- Tampilan katalog produk
+- Tampilan tanaman hias yang sudah di tambahkan
 
 ##  Prosedur Instalasi
 
