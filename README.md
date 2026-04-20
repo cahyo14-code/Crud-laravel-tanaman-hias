@@ -8,7 +8,7 @@ Aplikasi toko online berbasis web untuk penjualan tanaman hias, dibangun menggun
 - **Database:** MySQL
 
 
-## ✨ Fitur
+## Fitur
 - Manajemen data produk tanaman hias (CRUD)
 - Tampilan katalog produk
 
